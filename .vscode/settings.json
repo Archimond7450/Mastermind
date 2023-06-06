@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "mutex": "cpp",
+        "optional": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "stdexcept": "cpp",
+        "array": "cpp"
+    },
+    "C_Cpp.default.compileCommands": "builddir/vscode_compile_commands.json"
+}

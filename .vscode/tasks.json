@@ -4,10 +4,7 @@
 		{
 			"type": "shell",
 			"label": "rebuild",
-			"command": "meson compile -C builddir",
-			"targets": [
-				""
-			],
+			"command": "meson setup builddir && meson compile -C builddir",
 			"group": {
 				"kind": "build",
 				"isDefault": true
